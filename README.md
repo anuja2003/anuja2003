@@ -123,8 +123,7 @@ Here are some ideas to get you started:
 
  
 # Thank you all for Guys 
-This project is protected by `GNU General Public Licence v3.0` license.
-
+😇
 
     
     
