@@ -105,11 +105,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- 
- 
-  <a href="https://github.com/Damantha126/handle-path-oz">
-    <img align="center" alt="Anuja Supulsara's github stats" src="https://github-readme-stats.vercel.app/api?username=Anuja2003&show_icons=true&theme=midnight-purple" />
-  </a>
+
 
 <br>
 <br>
@@ -120,4 +116,4 @@ Here are some ideas to get you started:
 
 <p align="center"> <a href="https://github.com/Anuja2003"><img src="https://github-profile-trophy.vercel.app/?username=Anuja2003&no-bg=true" alt="Anuja2003" /></a> </p>
 
-
+# Contribution Graph <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width=100px>
