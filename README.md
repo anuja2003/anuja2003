@@ -13,6 +13,7 @@ You can use the website to generate badges: https://shields.io/
 -->
 
 
+#🎯 
 <div align="center"><img src="https://profile-counter.glitch.me/Anuja2003/count.svg" /><br>Profile Viewers</div>
 
 > `Website:` [ 𝑵.𝑨 𝑺𝑼𝑷𝑼𝑳𝑺𝑨𝑹𝑨](https://Anuja2003.github.io/) | [SDBots](https://t.me/SDBOTs_Inifinity)<br>
