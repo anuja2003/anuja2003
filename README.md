@@ -120,3 +120,35 @@ Here are some ideas to get you started:
 <p align="center"> <a href="https://github.com/Anuja2003"><img src="https://github-profile-trophy.vercel.app/?username=Anuja2003&no-bg=true" alt="Anuja2003" /></a> </p>
 
 # Contribution Graph <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width=100px>
+
+ 
+## Thank you all for using Akina
+This project is protected by `GNU General Public Licence v3.0` license.
+
+
+    
+    
+   
+ <div align="center">
+  <img src="https://telegra.ph/file/e89e47c0257589bbcb460.jpg" width="250" height="250">
+ 
+ 
+   💞🎧𝑵.𝑨 𝑺𝑼𝑷𝑼𝑳𝑺𝑨𝑹𝑨 🎧💞
+  
+  
+ #### සියල්ල අත් නොහැර , සියල්ල අත්හැරෙන බව දැනගෙන ජීවත් වෙන්න 🙂✊
+
+  </a>
+             
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Thank+you+all+for+using+Akina&font=Fira%20Code&center=true&width=380&height=50">
+  
+  
+  #### වැඩි විස්තර සඳහා...
+ <p align="center">
+<a href="http://wa.me/94712289566"><img title="Whatsapp" src="https://img.shields.io/badge/Watsapp-Contact-ft/Akina?color=blue&style=for-the-badge&logo=whatsapp"></a>
+ 
+ <p align="center">
+<a href="https://t.me/Anujasupulsara"><img title="Telegram" src="https://img.shields.io/badge/Telegram-Contact-ft/Akina?color=blue&style=for-the-badge&logo=Telegram"></a>
+  <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Contact+by+Anuja+Supulsara&font=Fira%20Code&center=true&width=380&height=50">
