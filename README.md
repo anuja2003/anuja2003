@@ -6,7 +6,7 @@ You can use the website to generate badges: https://shields.io/
 | <a href="https://t.me/Damantha_Jasinghe"><img src="https://telegra.ph/file/91189e6a925683868095d.jpg" width="150px" height="150px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
 |       **[𝑵.𝑨 𝑺𝑼𝑷𝑼𝑳𝑺𝑨𝑹𝑨 ✘[ ❮𝐒𝐃❯ ] ™ܔ ](https://t.me/Anujasupulsara)**                                                                                |
-| <a href="https://t.me/Anujasupulsara"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-256.png" width="32px" height="32px"></a> <a href="https://www.instagram.com/"><img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-256.png" width="32px" height="32px"></a>                                                                                                                                                                <a href="https://www.youtube.com/channel/UCzl8fagoLiV7zBDXQxKYAxA"><img src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_youtube-256.png" width="32px" height="32px"></a>              <a href="https://twitter.com/DamanthaJ"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-256.png" width="32px" height="32px">                                 
+| <a href="https://t.me/Anujasupulsara"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-256.png" width="32px" height="32px"></a> <a href="https://www.instagram.com/"><img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-256.png" width="32px" height="32px"></a>                                                                                                                                                                <a href="https://www.youtube.com/channel/UC0U6GttiHLKjQs6MUUBT2fA"><img src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_youtube-256.png" width="32px" height="32px"></a>              <a href="https://twitter.com/DamanthaJ"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-256.png" width="32px" height="32px">                                 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
@@ -14,7 +14,7 @@ You can use the website to generate badges: https://shields.io/
 
 
  
-###**[𝑵.𝑨 𝑺𝑼𝑷𝑼𝑳𝑺𝑨𝑹𝑨 ✘[ ❮𝐒𝐃❯ ] ™ܔ ](https://t.me/Anujasupulsara)** <div align="center"><img src="https://profile-counter.glitch.me/Anuja2003/count.svg" /><br>Profile Viewers</div>
+ ###[𝑵.𝑨 𝑺𝑼𝑷𝑼𝑳𝑺𝑨𝑹𝑨 ✘[ ❮𝐒𝐃❯ ] ™ܔ ](https://t.me/Anujasupulsara)** <div align="center"><img src="https://profile-counter.glitch.me/Anuja2003/count.svg" /><br>Profile Viewers</div>
 
 > `Website:` [ 𝑵.𝑨 𝑺𝑼𝑷𝑼𝑳𝑺𝑨𝑹𝑨](https://Anuja2003.github.io/) | [SDBots](https://t.me/SDBOTs_Inifinity)<br>
 
@@ -133,10 +133,10 @@ Here are some ideas to get you started:
  
  
    💞🎧𝑵.𝑨 𝑺𝑼𝑷𝑼𝑳𝑺𝑨𝑹𝑨 🎧💞
+   PROGRAMMER
   
-  
- #### සියල්ල අත් නොහැර , සියල්ල අත්හැරෙන බව දැනගෙන ජීවත් වෙන්න 🙂✊
-
+ #### සියල්ල අත් නොහැර , සියල්ල අත්හැරෙන බව දැනගෙන ජීවත් වෙන්න. 🙂✊
+ #### Live without giving up everything, knowing that everything will be given up 🙂✊
   </a>
              
 <p align="center">
@@ -144,6 +144,7 @@ Here are some ideas to get you started:
   
   
   #### වැඩි විස්තර සඳහා...
+  #### For more information...
  <p align="center">
 <a href="http://wa.me/"><img title="Whatsapp" src="https://img.shields.io/badge/Watsapp-Contact-ft/Akina?color=blue&style=for-the-badge&logo=whatsapp"></a>
  
