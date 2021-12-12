@@ -17,7 +17,7 @@ You can use the website to generate badges: https://shields.io/
 
 <h2 align="center">
 <div align="center"><img src="https://profile-counter.glitch.me/Anuja2003/count.svg" /><br>Profile Viewers</div>
-</h2>
+
 > `Website:` [ 𝑵.𝑨 𝑺𝑼𝑷𝑼𝑳𝑺𝑨𝑹𝑨](https://Anuja2003.github.io/) | [SDBots](https://t.me/SDBOTs_Inifinity)<br>
 
 ![𝑵.𝑨 𝑺𝑼𝑷𝑼𝑳𝑺𝑨𝑹𝑨 Git Stats](https://github-readme-stats.vercel.app/api?username=Anuja2003&include_all_commits=true&count_private=true&theme=highcontrast)
@@ -43,7 +43,7 @@ You can use the website to generate badges: https://shields.io/
 # 📊 Status
 [![Metrics](https://metrics.lecoq.io/Anuja2003?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)](https://t.me/Anujasupulsara
 
- </p>
+
  
 <h3 align="left">Tools I Love ♥️ & Learning</h3>
 
