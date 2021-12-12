@@ -14,7 +14,7 @@ You can use the website to generate badges: https://shields.io/
 
 
  
- ###[𝑵.𝑨 𝑺𝑼𝑷𝑼𝑳𝑺𝑨𝑹𝑨 ✘[ ❮𝐒𝐃❯ ] ™ܔ ](https://t.me/Anujasupulsara)** <div align="center"><img src="https://profile-counter.glitch.me/Anuja2003/count.svg" /><br>Profile Viewers</div>
+ [𝑵.𝑨 𝑺𝑼𝑷𝑼𝑳𝑺𝑨𝑹𝑨 ✘[ ❮𝐒𝐃❯ ] ™ܔ ](https://t.me/Anujasupulsara)** <div align="center"><img src="https://profile-counter.glitch.me/Anuja2003/count.svg" /><br>Profile Viewers</div>
 
 > `Website:` [ 𝑵.𝑨 𝑺𝑼𝑷𝑼𝑳𝑺𝑨𝑹𝑨](https://Anuja2003.github.io/) | [SDBots](https://t.me/SDBOTs_Inifinity)<br>
 
@@ -152,3 +152,7 @@ Here are some ideas to get you started:
 <a href="https://t.me/Anujasupulsara"><img title="Telegram" src="https://img.shields.io/badge/Telegram-Contact-ft/Akina?color=blue&style=for-the-badge&logo=Telegram"></a>
   <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Contact+by+Anuja+Supulsara&font=Fira%20Code&center=true&width=380&height=50">
+   
+   <div align="center">
+  <img src="https://telegra.ph/file/5f87fb021083c2fec10a4.gif" width="699" height="167">
+
