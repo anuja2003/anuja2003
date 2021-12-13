@@ -127,6 +127,30 @@ Here are some ideas to get you started:
 # Contribution Graph <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width=100px>
 
  
+
+   
+   <div align="center">
+  <img src="https://telegra.ph/file/5f87fb021083c2fec10a4.gif" width="699" height="167">
+
+# Details...
+
+```python
+Name = "𝑵.𝑨 𝑺𝑼𝑷𝑼𝑳𝑺𝑨𝑹𝑨"
+Who I Am = 'Lerning = Python'
+Age = "18+"
+Country = "Sri Lanka"
+```
+    
+[![Github](https://i.imgur.com/ySfL7Nr.gif)](https://github.com/Anuja2003)
+    
+    
+    
+# Python Code Type... 
+[![Github](https://telegra.ph/file/952ff986c509e1465d634.gif)](https://github.com/Anuja2003)
+    
+    
+    
+    
 # Thank you all for Guys 
 
 
@@ -157,17 +181,3 @@ Here are some ideas to get you started:
 <a href="https://t.me/Anujasupulsara"><img title="Telegram" src="https://img.shields.io/badge/Telegram-Contact-ft/Akina?color=blue&style=for-the-badge&logo=Telegram"></a>
   <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Contact+by+Anuja+Supulsara&font=Fira%20Code&center=true&width=380&height=50">
-   
-   <div align="center">
-  <img src="https://telegra.ph/file/5f87fb021083c2fec10a4.gif" width="699" height="167">
-
-
-
-```python
-Name = "𝑵.𝑨 𝑺𝑼𝑷𝑼𝑳𝑺𝑨𝑹𝑨"
-Who I Am = 'Lerning = Python'
-Age = "18+"
-Country = "Sri Lanka"
-```
-    
-[![Github](https://i.imgur.com/ySfL7Nr.gif)](https://github.com/Anuja2003)
