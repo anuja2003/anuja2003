@@ -3,7 +3,7 @@
  <div align="center">
   <img src="https://user-images.githubusercontent.com/45633928/104728821-af559d80-5761-11eb-9eaf-531d390ef588.gif" width="699" height="167">
 
-![welcome](https://user-images.githubusercontent.com/45633928/104728821-af559d80-5761-11eb-9eaf-531d390ef588.gif)
+
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
