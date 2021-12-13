@@ -23,7 +23,7 @@ You can use the website to generate badges: https://shields.io/
 </div><br/>
  
  
-> `Website:` [ 𝑵.𝑨 𝑺𝑼𝑷𝑼𝑳𝑺𝑨𝑹𝑨](https://Anuja2003.github.io/) | [SDBots](https://t.me/SDBOTs_Inifinity)<br>
+> `Website:` [✫ 𝑵.𝑨 𝑺𝑼𝑷𝑼𝑳𝑺𝑨𝑹𝑨 ♔](https://Anuja2003.github.io/) | [✫ PROGRAMMER ♔ ](https://t.me/Anujasupulsara)<br>
 
 <div align="center"><a href="https://github.com/Anuja2003">
 <img src="https://github-readme-stats.vercel.app/api?username=Anuja2003&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=98edc4&icon_color=105bde&text_color=D3D3D3&bg_color=0,000000,040354" alt="My Github Stats"></a>
