@@ -132,7 +132,7 @@ Here are some ideas to get you started:
  <div align="center">
   <img src="https://telegra.ph/file/e89e47c0257589bbcb460.jpg" width="250" height="250">
  
-    [✫ 𝑵.𝑨 𝑺𝑼𝑷𝑼𝑳𝑺𝑨𝑹𝑨 ♔](https://Anuja2003.github.io/) | [✫ PROGRAMMER ♔ ](https://t.me/Anujasupulsara)
+> `😁` [✫ 𝑵.𝑨 𝑺𝑼𝑷𝑼𝑳𝑺𝑨𝑹𝑨 ♔](https://Anuja2003.github.io/) | [✫ PROGRAMMER ♔ ](https://t.me/Anujasupulsara)<br>
    💞🎧𝑵.𝑨 𝑺𝑼𝑷𝑼𝑳𝑺𝑨𝑹𝑨 🎧💞
    
   
