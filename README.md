@@ -20,6 +20,9 @@ You can use the website to generate badges: https://shields.io/
 <h2 align="center">
 <div align="center"><img src="https://profile-counter.glitch.me/Anuja2003/count.svg" /><br>Profile Viewers</div>
 
+</div><br/>
+ 
+ 
 > `Website:` [ 𝑵.𝑨 𝑺𝑼𝑷𝑼𝑳𝑺𝑨𝑹𝑨](https://Anuja2003.github.io/) | [SDBots](https://t.me/SDBOTs_Inifinity)<br>
 
 <div align="center"><a href="https://github.com/Anuja2003">
