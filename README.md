@@ -18,9 +18,6 @@ You can use the website to generate badges: https://shields.io/
 -->
 
  
-
-
-<h2 align="center">
 <div align="center"><img src="https://profile-counter.glitch.me/Anuja2003/count.svg" /><br>Profile Viewers</div>
 
 </div><br/>
