@@ -162,4 +162,12 @@ Here are some ideas to get you started:
   <img src="https://telegra.ph/file/5f87fb021083c2fec10a4.gif" width="699" height="167">
 
 
+
+```python
+Name = "𝑵.𝑨 𝑺𝑼𝑷𝑼𝑳𝑺𝑨𝑹𝑨"
+Who I Am = 'Lerning = Python'
+Age = "18+"
+Country = "Sri Lanka"
+```
+    
 [![Github](https://i.imgur.com/ySfL7Nr.gif)](https://github.com/Anuja2003)
