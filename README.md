@@ -133,11 +133,11 @@ Here are some ideas to get you started:
    <div align="center">
   <img src="https://telegra.ph/file/5f87fb021083c2fec10a4.gif" width="699" height="167">
     
-# Contribution Graph <img src="https://camo.githubusercontent.com/100473c9dbc53f4a646f1815f8eb96fbc89b25861e52f489c4a3dd2308d788ac/68747470733a2f2f6a2e676966732e636f6d2f4e7852704c4c2e676966" width=100px>
+#   <img src="https://camo.githubusercontent.com/100473c9dbc53f4a646f1815f8eb96fbc89b25861e52f489c4a3dd2308d788ac/68747470733a2f2f6a2e676966732e636f6d2f4e7852704c4c2e676966" width=100px>
 [![Github](https://telegra.ph/file/cc4c9103664701298cb87.gif)](https://github.com/Anuja2003)
-# Contribution Graph <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width=100px>
+#   <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width=100px>
 [![Github](https://telegra.ph/file/5b12dae1ab7415dd7432c.gif)](https://github.com/Anuja2003)
-# Contribution Graph <img src="https://raw.githubusercontent.com/sylnsfar/qrcode/master/example/daftpunktocat-guy_qrcode.gif" width=100px>
+#   <img src="https://raw.githubusercontent.com/sylnsfar/qrcode/master/example/daftpunktocat-guy_qrcode.gif" width=100px>
 [![Github](https://telegra.ph/file/10de761ba0798c062ffe4.gif)](https://github.com/Anuja2003)
 # Details...
 
