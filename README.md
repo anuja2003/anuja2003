@@ -1,5 +1,8 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> I'm [𝑵.𝑨 𝑺𝑼𝑷𝑼𝑳𝑺𝑨𝑹𝑨 ✘[ ❮𝐒𝐃❯ ] ™ܔ ](https://t.me/Anujasupulsara) | [![Profile views](https://komarev.com/ghpvc/?username=Anuja2003a&label=Profile%20views)](https://github.com/Anuja2003)
 
+ <div align="center">
+  <img src="https://user-images.githubusercontent.com/45633928/104728821-af559d80-5761-11eb-9eaf-531d390ef588.gif" width="699" height="167">
+
 ![welcome](https://user-images.githubusercontent.com/45633928/104728821-af559d80-5761-11eb-9eaf-531d390ef588.gif)
 
 <!-- Your badges
