@@ -1,5 +1,5 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> I'm [𝑵.𝑨 𝑺𝑼𝑷𝑼𝑳𝑺𝑨𝑹𝑨 ✘[ ❮𝐒𝐃❯ ] ™ܔ ](https://t.me/Anujasupulsara) | [![Profile views](https://profile-counter.glitch.me/Anuja2003/count.svg)](https://github.com/Anuja2003)
-
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> I'm [𝑵.𝑨 𝑺𝑼𝑷𝑼𝑳𝑺𝑨𝑹𝑨 ✘[ ❮𝐒𝐃❯ ] ™ܔ ](https://t.me/Anujasupulsara) | [![Profile views](https://komarev.com/ghpvc/?username=Anuja2003a&label=Profile%20views)](https://github.com/Anuja2003)
+# WELCOME MY PROFILE...
  <div align="center">
   <img src="https://user-images.githubusercontent.com/45633928/104728821-af559d80-5761-11eb-9eaf-531d390ef588.gif" width="699" height="167">
 
@@ -8,7 +8,7 @@
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
-| <a href="https://t.me/Damantha_Jasinghe"><img src="https://telegra.ph/file/91189e6a925683868095d.jpg" width="150px" height="150px" /></a> |
+| <a href="https://t.me/AnujaSupulsara"><img src="https://telegra.ph/file/91189e6a925683868095d.jpg" width="150px" height="150px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
 |       **[𝑵.𝑨 𝑺𝑼𝑷𝑼𝑳𝑺𝑨𝑹𝑨 ✘[ ❮𝐒𝐃❯ ] ™ܔ ](https://t.me/Anujasupulsara)**                                                                                |
 | <a href="https://t.me/Anujasupulsara"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-256.png" width="32px" height="32px"></a> <a href="https://www.instagram.com/"><img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-256.png" width="32px" height="32px"></a>                                                                                                                                                                <a href="https://www.youtube.com/channel/UC0U6GttiHLKjQs6MUUBT2fA"><img src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_youtube-256.png" width="32px" height="32px"></a>              <a href="https://twitter.com/DamanthaJ"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-256.png" width="32px" height="32px">                                 
@@ -132,7 +132,13 @@ Here are some ideas to get you started:
    
    <div align="center">
   <img src="https://telegra.ph/file/5f87fb021083c2fec10a4.gif" width="699" height="167">
-
+    
+# Contribution Graph <img src="https://camo.githubusercontent.com/100473c9dbc53f4a646f1815f8eb96fbc89b25861e52f489c4a3dd2308d788ac/68747470733a2f2f6a2e676966732e636f6d2f4e7852704c4c2e676966" width=100px>
+[![Github](https://telegra.ph/file/cc4c9103664701298cb87.gif)](https://github.com/Anuja2003)
+# Contribution Graph <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width=100px>
+[![Github](https://telegra.ph/file/5b12dae1ab7415dd7432c.gif)](https://github.com/Anuja2003)
+# Contribution Graph <img src="https://raw.githubusercontent.com/sylnsfar/qrcode/master/example/daftpunktocat-guy_qrcode.gif" width=100px>
+[![Github](https://telegra.ph/file/10de761ba0798c062ffe4.gif)](https://github.com/Anuja2003)
 # Details...
 
 ```python
