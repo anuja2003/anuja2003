@@ -24,9 +24,9 @@ You can use the website to generate badges: https://shields.io/
 
 > `Website:` [ 𝑵.𝑨 𝑺𝑼𝑷𝑼𝑳𝑺𝑨𝑹𝑨](https://Anuja2003.github.io/) | [SDBots](https://t.me/SDBOTs_Inifinity)<br>
 
-![𝑵.𝑨 𝑺𝑼𝑷𝑼𝑳𝑺𝑨𝑹𝑨 Git Stats](https://github-readme-stats.vercel.app/api?username=Anuja2003&include_all_commits=true&count_private=true&theme=highcontrast)
- #### Contact me
-<!-- png icons from https://iconscout.com/ -->
+<div align="center"><a href="https://github.com/Anuja2003">
+<img src="https://github-readme-stats.vercel.app/api?username=Anuja2003&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=98edc4&icon_color=105bde&text_color=D3D3D3&bg_color=0,000000,040354" alt="My Github Stats"></a>
+</div><br/> 
 
 <a href="https://telegram.me/Anujasupulsara" target="blank"><img align="center" src="https://telegra.ph/file/26d2289b53f2b5f183a49.png" alt="shamilnelli" height="30" width="30" /></a>
 <a href="https://instagram.com/slsadewbro1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="𝑵.𝑨 𝑺𝑼𝑷𝑼𝑳𝑺𝑨𝑹𝑨" height="30" width="40" /></a>
