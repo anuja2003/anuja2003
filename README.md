@@ -53,7 +53,7 @@ You can use the website to generate badges: https://shields.io/
 <p align="left"> <a href="https://github.com/Anuja2003"><img src="https://github-profile-trophy.vercel.app/?username=Anuja2003&no-bg=true" alt="SADEW" /></a> </p>
 </details>
 
-# 📊 Status...  <img src="https://media.giphy.com/media/1lyiNMoZsLhSDp8gkb/giphy.gif" width=100px>
+# 📊 Status...  <img src="https://media.giphy.com/media/1lyiNMoZsLhSDp8gkb/giphy.gif" width=50px>
 
 [![Metrics](https://metrics.lecoq.io/Anuja2003?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)](https://t.me/Anujasupulsara)
  
@@ -143,7 +143,7 @@ Here are some ideas to get you started:
 [![Github](https://telegra.ph/file/5b12dae1ab7415dd7432c.gif)](https://github.com/Anuja2003)
 #   <img src="https://raw.githubusercontent.com/sylnsfar/qrcode/master/example/daftpunktocat-guy_qrcode.gif" width=100px>
 [![Github](https://telegra.ph/file/10de761ba0798c062ffe4.gif)](https://github.com/Anuja2003)
-# Details... <img src="https://hackernoon.com/images/0*4Gzjgh9Y7Gu8KEtZ.gif" width=100px>
+# Details... <img src="https://hackernoon.com/images/0*4Gzjgh9Y7Gu8KEtZ.gif" width=200px>
 
 
 ```python
@@ -183,8 +183,8 @@ Country = "Sri Lanka 🇱🇰"
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Thank+you+all&font=Fira%20Code&center=true&width=380&height=50">
   
   
-# වැඩි විස්තර සඳහා...  <img src="https://cdn.dribbble.com/users/563824/screenshots/3306683/untitled-6-110.gif" width=100px>
-# For more information... <img src="https://static.collectui.com/shots/3678774/dash-loader-large" width=100px>
+# වැඩි විස්තර සඳහා...  <img src="https://cdn.dribbble.com/users/563824/screenshots/3306683/untitled-6-110.gif" width=200px>
+# For more information... <img src="https://static.collectui.com/shots/3678774/dash-loader-large" width=200px>
  <p align="center">
 <a href="http://wa.me/"><img title="Whatsapp" src="https://img.shields.io/badge/Watsapp-Contact-ft/Akina?color=blue&style=for-the-badge&logo=whatsapp"></a>
  
