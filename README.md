@@ -157,13 +157,13 @@ Country = "Sri Lanka 🇱🇰"
     
     
     
-# Python Code Type... <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  
+# Python Code Type... <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">  
 [![Github](https://telegra.ph/file/952ff986c509e1465d634.gif)](https://github.com/Anuja2003)
     
     
     
     
-# Thank you all for Guys...  <img src="https://bestanimations.com/uploads/gifs/1697162351rotating-red-heart-gif-animation61.gif" width="30">  
+# Thank you all for Guys...  <img src="https://bestanimations.com/uploads/gifs/1697162351rotating-red-heart-gif-animation61.gif" width="60">  
 
     
     
