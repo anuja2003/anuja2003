@@ -160,7 +160,7 @@ Country = "Sri Lanka 🇱🇰"
     
     
     
-# Thank you all for Guys  <img src="https://data.whicdn.com/images/325520372/original.gif" width=100px>
+# Thank you all for Guys  <img src="https://assets.materialup.com/uploads/b1e3ef8a-bd9b-4a50-b7b4-1f6fd9384579/preview.gif" width=100px>
 
 
     
