@@ -139,13 +139,14 @@ Here are some ideas to get you started:
 [![Github](https://telegra.ph/file/5b12dae1ab7415dd7432c.gif)](https://github.com/Anuja2003)
 #   <img src="https://raw.githubusercontent.com/sylnsfar/qrcode/master/example/daftpunktocat-guy_qrcode.gif" width=100px>
 [![Github](https://telegra.ph/file/10de761ba0798c062ffe4.gif)](https://github.com/Anuja2003)
-# Details...
+# Details... <img src="https://www.gifservice.fr/img/gif-vignette-large/ca2fb683b25dd5b63dd16e1ccd70bf79/90466-round-sri-lanka-asia-flags.gif" width=100px>
+
 
 ```python
 Name = "𝑵.𝑨 𝑺𝑼𝑷𝑼𝑳𝑺𝑨𝑹𝑨"
 Who I Am = 'Lerning = Python'
 Age = "18+"
-Country = "Sri Lanka"
+Country = "Sri Lanka 🇱🇰"
 ```
     
 [![Github](https://i.imgur.com/ySfL7Nr.gif)](https://github.com/Anuja2003)
