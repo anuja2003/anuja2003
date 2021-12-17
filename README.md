@@ -2,7 +2,7 @@
 # WELCOME MY PROFILE...
  <div align="center">
   <img src="https://user-images.githubusercontent.com/45633928/104728821-af559d80-5761-11eb-9eaf-531d390ef588.gif" width="699" height="167">
-
+#   <img src="https://www.gifservice.fr/img/gif-vignette-large/ca2fb683b25dd5b63dd16e1ccd70bf79/90466-round-sri-lanka-asia-flags.gif" width=100px>
 
 # 𝑵.𝑨 𝑺𝑼𝑷𝑼𝑳𝑺𝑨𝑹𝑨
 <!-- Your badges
@@ -141,7 +141,7 @@ Here are some ideas to get you started:
 [![Github](https://telegra.ph/file/5b12dae1ab7415dd7432c.gif)](https://github.com/Anuja2003)
 #   <img src="https://raw.githubusercontent.com/sylnsfar/qrcode/master/example/daftpunktocat-guy_qrcode.gif" width=100px>
 [![Github](https://telegra.ph/file/10de761ba0798c062ffe4.gif)](https://github.com/Anuja2003)
-# Details... <img src="https://www.gifservice.fr/img/gif-vignette-large/ca2fb683b25dd5b63dd16e1ccd70bf79/90466-round-sri-lanka-asia-flags.gif" width=100px>
+# Details... <img src="https://hackernoon.com/images/0*4Gzjgh9Y7Gu8KEtZ.gif" width=100px>
 
 
 ```python
@@ -181,8 +181,8 @@ Country = "Sri Lanka 🇱🇰"
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Thank+you+all&font=Fira%20Code&center=true&width=380&height=50">
   
   
-# වැඩි විස්තර සඳහා...  <img src="https://cdn.dribbble.com/users/4011649/screenshots/7121070/media/60c16108f4bc9b6fee33b716d277c44b.gif" width=100px>
-# For more information...
+# වැඩි විස්තර සඳහා...  <img src="https://cdn.dribbble.com/users/563824/screenshots/3306683/untitled-6-110.gif" width=100px>
+# For more information... <img src="https://static.collectui.com/shots/3678774/dash-loader-large" width=100px>
  <p align="center">
 <a href="http://wa.me/"><img title="Whatsapp" src="https://img.shields.io/badge/Watsapp-Contact-ft/Akina?color=blue&style=for-the-badge&logo=whatsapp"></a>
  
