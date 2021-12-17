@@ -160,7 +160,7 @@ Country = "Sri Lanka 🇱🇰"
     
     
     
-# Thank you all for Guys 
+# Thank you all for Guys  <img src="https://data.whicdn.com/images/325520372/original.gif" width=100px>
 
 
     
@@ -181,8 +181,8 @@ Country = "Sri Lanka 🇱🇰"
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Thank+you+all&font=Fira%20Code&center=true&width=380&height=50">
   
   
-  #### වැඩි විස්තර සඳහා...
-  #### For more information...
+# වැඩි විස්තර සඳහා...  <img src="https://cdn.dribbble.com/users/4011649/screenshots/7121070/media/60c16108f4bc9b6fee33b716d277c44b.gif" width=100px>
+# For more information...
  <p align="center">
 <a href="http://wa.me/"><img title="Whatsapp" src="https://img.shields.io/badge/Watsapp-Contact-ft/Akina?color=blue&style=for-the-badge&logo=whatsapp"></a>
  
