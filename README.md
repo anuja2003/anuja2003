@@ -3,7 +3,7 @@
  <div align="center">
   <img src="https://user-images.githubusercontent.com/45633928/104728821-af559d80-5761-11eb-9eaf-531d390ef588.gif" width="699" height="167">
  
-# ✫ I'm SRI LANKAN PROGRAMMER ♔
+# ✫ I'M SRI LANKAN PROGRAMMER ♔
 #   <img src="https://www.gifservice.fr/img/gif-vignette-large/ca2fb683b25dd5b63dd16e1ccd70bf79/90466-round-sri-lanka-asia-flags.gif" width=100px>
 
 # 𝑵.𝑨 𝑺𝑼𝑷𝑼𝑳𝑺𝑨𝑹𝑨
